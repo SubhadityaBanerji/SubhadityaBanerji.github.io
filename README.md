@@ -1,5 +1,5 @@
 ## My BLog
 
-[C Programs With Flowcharts](https://github.com/SubhadityaBanerji/C-Programs-With-Flowchart)
+[C Programs With Flowcharts(For Newbies)](https://github.com/SubhadityaBanerji/C-Programs-With-Flowchart)
 
-[Android Studio Documentation](https://github.com/SubhadityaBanerji/Android-Studio-Documentation)
+[Android Studio Documentation(Important Instructions And Tips)](https://github.com/SubhadityaBanerji/Android-Studio-Documentation)
